@@ -3,7 +3,7 @@
 
 
  ### 🛠  Technologies
-- Developed entirely in [JavaScript]((https://www.javascript.com/))
+- Developed entirely in [JavaScript](https://www.javascript.com/)
 
 <h4 align="center"> 
     ✅  Successfully completed project  ✅
